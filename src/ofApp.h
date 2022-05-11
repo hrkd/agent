@@ -22,5 +22,5 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 
-    array<agent, 20> mAgents;
+    array<agent, 10> mAgents;
 };
